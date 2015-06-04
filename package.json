@@ -1,9 +1,12 @@
 {
   "name": "d3-plugins-sankey",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "main": "sankey.js",
   "description": "A bower and npm compatible fork of D3's Sankey plugin",
-  "keywords": ["d3", "sankey"],
+  "keywords": [
+    "d3",
+    "sankey"
+  ],
   "dependencies": {
     "d3": "3"
   },
