@@ -1,0 +1,18 @@
+{
+  "name": "d3-plugins-sankey",
+  "version": "1.2.1",
+  "main": "sankey.js",
+  "description": "A bower and npm compatible fork of D3's Sankey plugin",
+  "keywords": [
+    "d3",
+    "sankey"
+  ],
+  "dependencies": {
+    "d3": "3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newrelic-forks/d3-plugins-sankey"
+  }
+}
